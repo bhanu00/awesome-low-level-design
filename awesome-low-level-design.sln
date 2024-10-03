@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solutions", "solutions", "{592794E3-8130-40F5-8A5E-426BF07FCC91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp", "csharp", "{A44A5DBD-42B1-4DB8-BAB6-4C56BEF97408}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{690734FA-6D36-4CD2-A73C-D77B13D9CD8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "parkinglot", "solutions\csharp\src\parkinglot\parkinglot.csproj", "{6D64266E-A0FC-4B1D-BEC7-CBC8E70533E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D64266E-A0FC-4B1D-BEC7-CBC8E70533E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D64266E-A0FC-4B1D-BEC7-CBC8E70533E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D64266E-A0FC-4B1D-BEC7-CBC8E70533E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D64266E-A0FC-4B1D-BEC7-CBC8E70533E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A44A5DBD-42B1-4DB8-BAB6-4C56BEF97408} = {592794E3-8130-40F5-8A5E-426BF07FCC91}
+		{690734FA-6D36-4CD2-A73C-D77B13D9CD8E} = {A44A5DBD-42B1-4DB8-BAB6-4C56BEF97408}
+		{6D64266E-A0FC-4B1D-BEC7-CBC8E70533E9} = {690734FA-6D36-4CD2-A73C-D77B13D9CD8E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2657C1B3-1465-4BC2-A1ED-7428CCD1FEE3}
+	EndGlobalSection
+EndGlobal
