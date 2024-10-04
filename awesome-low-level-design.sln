@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp", "csharp", "{A44A5D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{690734FA-6D36-4CD2-A73C-D77B13D9CD8E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "parkinglot", "solutions\csharp\src\parkinglot\parkinglot.csproj", "{6D64266E-A0FC-4B1D-BEC7-CBC8E70533E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParkingLot", "solutions\csharp\src\parkinglot\ParkingLot.csproj", "{6D64266E-A0FC-4B1D-BEC7-CBC8E70533E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
